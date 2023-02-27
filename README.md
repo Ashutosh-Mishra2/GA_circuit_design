@@ -1,1 +1,1 @@
-# Genetic_algorithm_circuit_design
+# Quantum Circuit design using Genetic Algorithm
