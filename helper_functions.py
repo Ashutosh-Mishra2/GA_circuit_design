@@ -27,7 +27,7 @@ def qml_to_qasm(circuit):
     Print the input circuit in QASM format.
 
     Args:
-        circuit (List[qml.Operators]): Input circuit as a list of operators.
+        circuit (List[qml.operation.Operation]): Input circuit as a list of operators.
     """
     for i in range(len(circuit)):
         if circuit[i].name == "CNOT":
