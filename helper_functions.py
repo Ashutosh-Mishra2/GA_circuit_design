@@ -3,8 +3,6 @@ import pennylane.numpy as np
 import matplotlib.pyplot as plt
 
 
-
-
 def inner_product(state1, state2):
     """
     Calculate the inner product of two input state vectors.
