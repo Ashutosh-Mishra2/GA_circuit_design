@@ -23,4 +23,6 @@ The codes can be found in the Jupyter notebook `quantum_circuit_design.ipynb`. A
 ### Dependecies and installation
 We use [pennylane](https://pennylane.ai/) to simulate the quantum circuits. The installation instructions can be found [here](https://pennylane.ai/install.html). 
 
+### Presentation
 **Link to google slides** - https://docs.google.com/presentation/d/15rWm4BfqcXm5z52CKhpCfRGEhJgyhaC7kltPVhGTMrs/edit?usp=sharing
+Also Slides and a video presentation of the slides have been added to the repository
