@@ -25,4 +25,5 @@ We use [pennylane](https://pennylane.ai/) to simulate the quantum circuits. The 
 
 ### Presentation
 **Link to google slides** - https://docs.google.com/presentation/d/15rWm4BfqcXm5z52CKhpCfRGEhJgyhaC7kltPVhGTMrs/edit?usp=sharing
-Also Slides and a video presentation of the slides have been added to the repository
+
+Also Slides and a video presentation of the slides have been added to the repository.
