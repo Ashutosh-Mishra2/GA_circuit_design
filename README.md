@@ -1,5 +1,6 @@
 # Quantum Circuit design using Genetic Algorithm
-![image](https://user-images.githubusercontent.com/61776089/221840127-68fd5b97-f140-498f-94c9-9a2feed8880a.png)
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/61776089/221965284-da1d37a4-b619-4e44-9365-8c53465852e6.png">
+
 
 
 ## Team quantum_cats
