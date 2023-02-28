@@ -3,7 +3,7 @@
 
 
 ## Team quantum_cats
-Members: Ashutosh Mishra, Taradutt Pattnaik, Shivnag Sista
+Members: Ashutosh Mishra, [Taradutt Pattnaik](https://staradutt.github.io/), Shivnag Sista
 
 ## Project description
 ### Motivation
